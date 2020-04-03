@@ -1,0 +1,20 @@
+{
+  "name": "XavWeb",
+  "version": "1.0.0",
+  "description": "A minimalist Web Chat app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/XavvC/XavWeb",
+  "keywords": [
+    "Electron",
+    "Web Chat",
+    "App"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
